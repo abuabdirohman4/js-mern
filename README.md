@@ -1,1 +1,1 @@
-# js-mern
+# MERN Stack
