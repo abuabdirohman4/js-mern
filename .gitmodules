@@ -1,0 +1,8 @@
+[submodule "mern-semina-ticket-client"]
+	path = mern-semina-ticket-client
+	url = git@github.com:abuabdirohman4/mern-semina-ticket-client.git
+	branch = master
+[submodule "mern-semina-ticket-server"]
+	path = mern-semina-ticket-server
+	url = git@github.com:abuabdirohman4/mern-semina-ticket-server.git
+	branch = dev
