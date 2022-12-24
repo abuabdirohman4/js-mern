@@ -9,3 +9,4 @@
 [submodule "mern-semina-ticket-landing"]
 	path = mern-semina-ticket-landing
 	url = git@github.com:abuabdirohman4/mern-semina-ticket-landing.git
+	branch = master
