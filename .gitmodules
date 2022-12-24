@@ -6,3 +6,6 @@
 	path = mern-semina-ticket-server
 	url = git@github.com:abuabdirohman4/mern-semina-ticket-server.git
 	branch = dev
+[submodule "mern-semina-ticket-landing"]
+	path = mern-semina-ticket-landing
+	url = git@github.com:abuabdirohman4/mern-semina-ticket-landing.git
